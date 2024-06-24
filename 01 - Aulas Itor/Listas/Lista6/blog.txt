@@ -1,0 +1,14 @@
+Titulo: Assembly e de comer?
+Ano publicacao: 1999
+
+Titulo: Aprendendo a programar com C
+Ano publicacao: 1992
+
+Titulo: Aprendendo a programar com Python
+Ano publicacao: 2010
+
+Titulo: Programando com GO
+Ano publicacao: 2024
+
+Titulo: Utilizando Rust
+Ano publicacao: 2021

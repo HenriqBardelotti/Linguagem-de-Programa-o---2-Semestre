@@ -1,0 +1,5 @@
+Henrique Ribeiro Bardelotti, 1, 10.00
+Jessica Loca, 2, 5.00
+Douglas Wallace, 3, 7.00
+Luiz Francisco, 4, 9.00
+Kaua Penteado, 5, 6.00

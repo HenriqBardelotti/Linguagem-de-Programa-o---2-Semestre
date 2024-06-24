@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714830554 source:c:\users\agric\onedrive\Área de trabalho\treino maratona\sábado\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

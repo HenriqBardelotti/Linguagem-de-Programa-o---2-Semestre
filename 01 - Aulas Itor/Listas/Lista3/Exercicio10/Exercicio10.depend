@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714998007 source:c:\users\agric\onedrive\Área de trabalho\01 - henrique\01- fatec\materias\2º semestre\linguagem de programação\01 - aulas itor\lista3\exercicio10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

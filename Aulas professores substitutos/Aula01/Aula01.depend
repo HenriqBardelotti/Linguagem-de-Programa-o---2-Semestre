@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709336389 source:c:\users\agric\onedrive\Área de trabalho\henrique\fatec\lógica\aula01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

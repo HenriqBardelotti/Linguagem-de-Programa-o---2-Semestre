@@ -1,0 +1,21 @@
+2
+Laticinios
+1
+Leite
+3
+3.990000
+234
+Pao
+3
+Forma
+1
+2.990000
+30
+Sovado
+4
+2.890000
+34
+Pao de leite
+12
+4.990000
+100
